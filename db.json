@@ -3,6 +3,7 @@
     {
       "message": null,
       "didError": "false",
+      "errorMessage":"",
       "model":[{
         "id": 1,
         "pasalDicetak":false,
@@ -14,6 +15,7 @@
     {
       "message": null,
       "didError": "false",
+      "errorMessage":"",
       "model":[{
         "id": 2,
         "pasalDicetak":false,
@@ -25,6 +27,7 @@
     {
       "message": null,
       "didError": "false",
+      "errorMessage":"",
       "model":[{
         "id": 3,
         "pasalDicetak":true,
@@ -36,6 +39,7 @@
     {
       "message": null,
       "didError": "false",
+      "errorMessage":"",
       "model":[{
         "id": 4,
         "pasalDicetak":true,
