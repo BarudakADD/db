@@ -4,8 +4,7 @@
       "message": null,
       "didError": "false",
       "errorMessage":"",
-      "model":[
-          {
+      "model":[{
             "id": 1,
             "pasalDicetak":false,
             "noUrut":1,
@@ -32,7 +31,6 @@
             "noUrut": 4,
             "header":"Pasal 4: Definisi",
             "narasi":"Dalam perjanjian 4 blablabla"
-          }
-      ]
+          }]
     }
 }
