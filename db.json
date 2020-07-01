@@ -1,11 +1,15 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "message": null,
+      "didError": "false",
+      "model":[{
+        "id": 1,
+        "pasalDicetak":false,
+        "noUrut":1,
+        "header":"Pasal 1: Definisi",
+        "narasi":"Dalam perjanjian blablabla"
+      }]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
