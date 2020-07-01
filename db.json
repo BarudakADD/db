@@ -8,7 +8,40 @@
         "pasalDicetak":false,
         "noUrut":1,
         "header":"Pasal 1: Definisi",
-        "narasi":"Dalam perjanjian blablabla"
+        "narasi":"Dalam perjanjian 1 blablabla"
+      }]
+    },
+    {
+      "message": null,
+      "didError": "false",
+      "model":[{
+        "id": 2,
+        "pasalDicetak":false,
+        "noUrut":2,
+        "header":"Pasal 2: Definisi",
+        "narasi":"Dalam perjanjian 2 blablabla"
+      }]
+    },
+    {
+      "message": null,
+      "didError": "false",
+      "model":[{
+        "id": 3,
+        "pasalDicetak":true,
+        "noUrut":3,
+        "header":"Pasal 3: Definisi",
+        "narasi":"Dalam perjanjian 3 blablabla"
+      }]
+    },
+    {
+      "message": null,
+      "didError": "false",
+      "model":[{
+        "id": 4,
+        "pasalDicetak":true,
+        "noUrut": 4,
+        "header":"Pasal 4: Definisi",
+        "narasi":"Dalam perjanjian 4 blablabla"
       }]
     }
   ]
